@@ -1,0 +1,131 @@
+*{  
+    margin:0;
+    padding:0;
+    font-family: monospace;
+
+} 
+/*SELECTOR*/
+.cabecera{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+.tituloHeader{
+    width: 1000px;
+    margin: 25px auto;
+    text-align: center;
+    font-size: 20px;
+    
+    background-color: #F4D03F;
+    background-image: -webkit-linear-gradient(42deg, #F4D03F 0%, #16A085 100%);
+    background-image: -o-linear-gradient(42deg, #F4D03F 0%, #16A085 100%);
+    background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);*/
+}
+
+.listado{
+    text-align: center;
+    margin: 15px 0px 0px 0px;   
+}
+section{
+    color: black; 
+    text-align: left;
+    font-size: 17px;
+    width: 1000px;
+    margin: 25px auto;
+    padding: 15px 0px 15px 0px; 
+
+    
+    background-color: #ffefb1;
+    background-image: -webkit-linear-gradient(top left, #ffefb1 0%, #ffb886 100%);
+    background-image: -o-linear-gradient(top left, #ffefb1 0%, #ffb886 100%);
+    background-image: linear-gradient(to bottom right, #ffefb1 0%, #ffb886 100%);*/
+}
+
+h2{
+    color: mediumvioletred;
+    text-align: left;
+    font-size: 17px;
+    width: 1000px;
+    margin: auto;
+    padding: 0px 0px 15px 0px;   
+}
+
+/*-------COLOR DE LAS TABLAS--------*/
+.tabla_1{
+    color:black;
+    font-size:16px;
+    background-color:#EDBB99;
+    border: 5px solid #D35400 ;   
+}
+
+.titulo_tabla{
+    color:black;
+    text-align:center;
+    font-size: 17px;
+    background-color: #E59866 ;
+    border: 5px solid #E59866;
+    
+}
+
+.tablas{
+    color:black;
+    font-size:15px;
+    background-color:#F5CBA7;
+    border: 5px solid #D35400;
+    border-radius: 5px;
+}
+
+.propiedad_1{
+    background-color:#E59866;
+}
+.colorPropiedad{
+    background-color:#E59866;
+}
+
+.Color_etiqueta{
+    background-color: #E59866;
+    font-size: 16;
+    text-align: center;
+}
+
+/*----- IMAGENES -------*/
+.img{
+    width: 299px;
+    height: 165px;
+    padding: 0px 100px 0px 0px;
+}
+.img_2{
+     width: 298px;
+    height: 100px;
+    padding: 0px 100px 0px 0px;
+}
+.imgTabla{
+    width: 240px;
+    height: 175px;
+    padding: 0px 130px 0px 0px;
+}
+.imgTexto{
+     width: 299px;
+    height: 195px;
+    padding: 0px 100px 0px 0px;
+}
+.imgCss{
+    width: 399px;
+    height: 205px;
+    padding: 0px 100px 0px 290px;
+}
+
+/*-------------------------*/
+
+footer{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    
+    background-color: #F4D03F;
+    background-image: -webkit-linear-gradient(42deg, #F4D03F 0%, #16A085 100%);
+    background-image: -o-linear-gradient(42deg, #F4D03F 0%, #16A085 100%);
+    background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+
+}
